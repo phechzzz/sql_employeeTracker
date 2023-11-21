@@ -15,7 +15,7 @@ const connection = mysql.createConnection({
 host: 'localhost',
 user: 'root',
 database: 'restaurant',
-password: 'gobble123',
+password: '',
 });
 
 
